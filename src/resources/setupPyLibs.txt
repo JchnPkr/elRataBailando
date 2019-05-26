@@ -1,0 +1,5 @@
+sudo apt-get install python3-pip
+sudo pip3 install pyautogui
+sudo apt-get install python3-xlib
+apt-get install python3-tk
+python3 mouseMover.py 
